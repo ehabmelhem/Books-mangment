@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+}
+.firstpage {
+  position: relative;
+  background: linear-gradient(#b8aaaa, #ffffff);
+  height: 100vh;
+  width: 100vw;
+}
+.btn {
+  position: relative;
+  top: 150px;
+}
+a {
+  text-decoration: none;
+}

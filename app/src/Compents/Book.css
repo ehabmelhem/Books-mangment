@@ -1,0 +1,10 @@
+.flex {
+  width: fit-content;
+  margin: 0 auto;
+  position: relative;
+  top: 150px;
+  border: 1px solid gray;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: whitesmoke;
+}
